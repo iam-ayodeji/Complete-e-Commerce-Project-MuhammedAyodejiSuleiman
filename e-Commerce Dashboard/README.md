@@ -1,3 +1,4 @@
+# e-Commerce Intelligence Dashboard
 e-Commerce Intelligence Dashboard
 e-Commerce Intelligence is a two-page Power BI dashboard developed to evaluate the commercial performance and operational risk of an e-commerce order dataset. The report converts 1,200 order records into an executive view of revenue, product contribution, acquisition-channel performance, cancellations, returns, payment-method risk, and coupon effectiveness.
 
